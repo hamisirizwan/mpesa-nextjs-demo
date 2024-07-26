@@ -5,7 +5,7 @@ export default function PaymentSuccess() {
       <h1>Thank You for your Donation</h1>
       <p className="mt-4">You can find the full implementation on GitHub:</p>
       <a
-        href="https://github.com/your-repository-link"
+        href="https://github.com/hamisirizwan/mpesa-nextjs-demo"
         target="_blank"
         rel="noopener noreferrer"
         className="text-blue-500 underline"
